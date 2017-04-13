@@ -6012,3 +6012,10 @@ body > * {
 .logo {
   display: inline-block;
   text-align: center; }
+
+.navbar-nav {
+  font-family: 'Nunito', sans-serif;
+  color: #5182d1; }
+
+a:hover {
+  color: #dbdbdb; }
