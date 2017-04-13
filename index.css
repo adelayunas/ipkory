@@ -6015,7 +6015,7 @@ body > * {
 
 .navbar-nav {
   font-family: 'Nunito', sans-serif !important;
-  color: #5182d1 !important; }
+  color: red !important; }
 
 a:hover {
   color: #dbdbdb !important; }
