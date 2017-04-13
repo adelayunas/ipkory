@@ -6014,7 +6014,7 @@ body > * {
   text-align: center; }
 
 .navbar-nav {
-  font-family: 'Nunito', sans-serif;
+  font-family: 'Nunito', sans-serif !important;
   color: #5182d1 !important; }
 
 a:hover {
