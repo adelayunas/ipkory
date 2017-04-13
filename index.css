@@ -6013,7 +6013,7 @@ body > * {
   display: inline-block;
   text-align: center; }
 
-.navbar-nav {
+a {
   font-family: 'Nunito', sans-serif !important;
   color: #5182d1 !important; }
 
