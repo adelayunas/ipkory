@@ -21,10 +21,11 @@ $red:    #d9534f !default;
 $orange: #f0ad4e !default;
 $yellow: #ffd500 !default;
 $green:  #5cb85c !default;
-$blue:   #0275d8 !default;
+$blue:   #5182d1 !default;
 $teal:   #5bc0de !default;
 $pink:   #ff5b77 !default;
 $purple: #613d7c !default;
+
 
 // Grayscale and brand colors for use across Bootstrap.
 // Create grayscale
@@ -100,7 +101,7 @@ $link-hover-decoration: underline ;
 //
 // Font, line-height, and color for body text, headings, and more.
 
-$font-family-sans-serif: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+$font-family-sans-serif: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Nunito";
 $font-family-monospace:  Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace ;
 $font-family-base:       $font-family-sans-serif ;
 
@@ -164,7 +165,7 @@ body > * {
 }
 .navbar-nav{
 	font-family: 'Nunito', sans-serif !important;
-  color: red !important;
+  color: #5182d1 !important;
 }
 a:hover{
 	color: #dbdbdb !important;
