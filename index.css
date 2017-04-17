@@ -6020,3 +6020,6 @@ a {
 
 a:hover {
   color: #dbdbdb !important; }
+
+.dropdown-menu {
+  background-color: white; }
