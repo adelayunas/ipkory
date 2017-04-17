@@ -605,7 +605,7 @@ fieldset[disabled] a.btn {
   .btn-link:focus,
   .btn-link:hover {
     color: #2d5ca9;
-    text-decoration: underline;
+    text-decoration: none;
     background-color: transparent; }
   .btn-link:disabled {
     color: #636c72; }
@@ -3496,7 +3496,7 @@ a {
   -webkit-text-decoration-skip: objects; }
   a:hover {
     color: #2d5ca9;
-    text-decoration: underline; }
+    text-decoration: none; }
 
 a:not([href]):not([tabindex]) {
   color: inherit;
@@ -6015,7 +6015,8 @@ body > * {
 
 a {
   font-family: 'Nunito', sans-serif !important;
-  color: #5182d1 !important; }
+  color: #5182d1 !important;
+  style: none; }
 
 a:hover {
   color: #dbdbdb !important; }
