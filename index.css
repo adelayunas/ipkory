@@ -6021,5 +6021,5 @@ a {
 a:hover {
   color: #dbdbdb !important; }
 
-.dropdown-menu:hover {
+.dropdown-item:hover {
   background-color: white; }
